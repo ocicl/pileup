@@ -1,0 +1,10 @@
+* pileup
+
+A simple thread-safe binary heap implementation for Common Lisp. MIT licence.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nikodemus/pileup   |
+| commit  | f269473  |
+| systems | pileup |
+|---------+-------------------------------------------|
+
